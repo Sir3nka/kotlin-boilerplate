@@ -1,5 +1,5 @@
 
-##### A very simple boilerplate for kotlin service with spring boot
+### A very simple boilerplate for kotlin service with spring boot
 
 
 There are two scrips included, one to build jar & docker image, second to actually run your app.
