@@ -7,4 +7,4 @@ There are two scrips included, one to build jar & docker image, second to actual
 To build it use ./build-with-docker.sh <image-name> and to run your app use ./run.sh <image-name> <app-name> by default it is published on port 8080.
 By default, docker container is recreated every execution of run script 
 ~~~~
-run script check if status endpoint is reachable.
+Upon execution ./run script check whether status endpoint is reachable
